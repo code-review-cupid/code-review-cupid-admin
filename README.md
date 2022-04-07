@@ -22,7 +22,10 @@ The purpose of Code Review Cupid is to build the community of code reviewers and
 In the industry field, code reviews are standard practices to guarantee software quality. However, it is very rare in academia. Generally, researchers are more focused on the output of the code rather than the quality of code. which makes the code extension, readability, repeatability, and maintainability cannot be satisfied. Therefore, we aim to build a community of academic code reviews, bringing the development of quality software at the core of a researcher’s routine.
 
 ### How this community works
+![workFlow](https://github.com/code-review-cupid/code-review-cupid-admin/blob/main/picture/workflow.jpeg)
 
+
+### How review progress
 ![workflow](https://github.com/code-review-cupid/code-review-cupid-admin/blob/main/picture/workFlow.png)
 
 Source: https://researchcodereviewcommunity.github.io/dev-review/
