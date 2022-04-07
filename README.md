@@ -8,6 +8,8 @@
 	- [How to contribute to this community](#contribution)
 - [How to use Code Review Cupid](#guide)
 - [How to contribute](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [References](#references)
 
 <!-- /TOC -->
 
@@ -21,9 +23,16 @@ In the industry field, code reviews are standard practices to guarantee software
 
 ### How this community works
 
+![workflow](https://github.com/code-review-cupid/code-review-cupid-admin/blob/main/picture/workFlow.png)
+
+Source: https://researchcodereviewcommunity.github.io/dev-review/
+
 ## How to use Code Review Cupid
+
 Brief introduction
+
 ### How to be a reviewer
+
 ![profile_page](https://github.com/code-review-cupid/code-review-cupid-admin/blob/main/picture/profile_page.png)
 TBD
 
@@ -31,6 +40,10 @@ TBD
 
 TBD
 
+## Acknowledgements
+
+This is a collaborative project of Matthaios Alexandrakis, Felicity Anderson, Declan Bays, Sherman Lo, Dmitry Nikolaenko, Jannetta Steyn, Jiada Tu, and David Wilby (alphabetical order) at the Collaborations Workshop 2022.
+
 ## References
 
-TBD
+https://researchcodereviewcommunity.github.io/dev-review/
