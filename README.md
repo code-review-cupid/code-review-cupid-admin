@@ -24,6 +24,7 @@ In the industry field, code reviews are standard practices to guarantee software
 ### How this community works
 
 ![workflow](https://github.com/code-review-cupid/code-review-cupid-admin/blob/main/picture/workFlow.png)
+Source: https://researchcodereviewcommunity.github.io/dev-review/
 
 ## How to use Code Review Cupid
 
@@ -40,7 +41,7 @@ TBD
 
 ## Acknowledgements
 
-TBD
+This is a collaborative project of Matthaios Alexandrakis, Felicity Anderson, Declan Bays, Sherman Lo, Dmitry Nikolaenko, Jannetta Steyn, Jiada Tu, and David Wilby (alphabetical order)
 
 ## References
 
