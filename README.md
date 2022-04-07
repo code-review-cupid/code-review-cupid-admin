@@ -45,7 +45,7 @@ TBD
 
 ## Acknowledgements
 
-This is a collaborative project of Matthaios Alexandrakis, Felicity Anderson, Declan Bays, Sherman Lo, Dmitry Nikolaenko, Jannetta Steyn, Jiada Tu, and David Wilby (alphabetical order) at the Collaborations Workshop 2022.
+This is a collaborative project of Felicity Anderson, Declan Bays, Sherman Lo, Dmitry Nikolaenko, Jannetta Steyn, Jiada Tu, and David Wilby (alphabetical order) at the Collaborations Workshop 2022.
 
 ## References
 
